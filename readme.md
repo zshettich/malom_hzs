@@ -7,7 +7,7 @@
 * **Monogram:** HZS
 
 ## Feladat leírása
-A projekt egy klasszikus **Malom (Nine Men's Morris)** társasjáték megvalósítása Python nyelven, grafikus felülettel. A játékot a felhasználó a számítógép ellen játssza.
+A projekt egy klasszikus **Malom** játék megvalósítása Python nyelven, grafikus felülettel. A játékot a felhasználó a számítógép ellen játssza.
 
 A program kezeli a játék három fázisát:
 1.  **Lerakás:** A játékosok felváltva helyezik le a bábuiakat.
