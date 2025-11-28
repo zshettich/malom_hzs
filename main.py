@@ -2,7 +2,7 @@ import turtle
 import random
 from malomtabla_hzs import Tablahzs, draw_board_hzs
 from jatekos_hzs import Playerrankhzs
-from idozites_hsz import start_timer_hzs, get_elapsed_hzs, wait_seconds_hzs
+from idozites_hzs import start_timer_hzs, get_elapsed_hzs, wait_seconds_hzs
 
 screen = turtle.Screen()
 screen.setup(800, 900)
